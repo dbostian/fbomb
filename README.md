@@ -25,6 +25,7 @@ Why did I design this? I've been building a few 40% and 60% keyboards lately, an
 - [ ] 12x Switches, presuming they fit in a 14mm square hole.
 - [ ] 12x 1N4148 Diodes
 - [ ] 1x Pro Micro
+- [ ] Crimp terminals, housings (3 pin, 4 pin)
 - [ ] 4x M3 x 8mm Countersunk Machine Screw
 - [ ] 1x M3 x 12mm Socket Cap Machine Screw
 - [ ] VHB or other double-stick tape (optional)
@@ -34,6 +35,7 @@ Why did I design this? I've been building a few 40% and 60% keyboards lately, an
 - [ ] Soldering Iron + Solder
 - [ ] Multimeter
 - [ ] Wire Cutters / Strippers / Flush Cutters
+- [ ] Crimping Pliers
 - [ ] Hex Drivers
 
 ### Printing Notes
