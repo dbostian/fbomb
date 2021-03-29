@@ -50,6 +50,10 @@ Install heatset inserts into the fuse and shell. Attach the fuse to the shell wi
 ### Wiring
 I wired my macropad into a 4x3 matrix. Each switch gets a diode and ~100mm of wire. I did not want to reach a soldering iron inside the Fn shell.
 
+To map rows and columns onto a sphere, I treated rows as groupings by latitude and columns as groupings by longitude. Here's each switch's matrix position (row, column) from a top down view.
+
+![example](https://i.imgur.com/nkNQIdR.jpg)
+
 I used Red for Rows, and blaCk for Columns. Each column wire gets a flag with a number, 1-4. I inserted the first row of four switches, and spliced the row wires together. This then went into a crimped conenctor. I repeated this for the remaining two rows, and then all of the matching columns. You do not want two switches with the same row + column.
 
 
