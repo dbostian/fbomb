@@ -29,6 +29,8 @@ Why did I design this? I've been building a few 40% and 60% keyboards lately, an
 - [ ] 4x M3 x 8mm Countersunk Machine Screw
 - [ ] 1x M3 x 12mm Socket Cap Machine Screw
 - [ ] VHB or other double-stick tape (optional)
+- [ ] Wire
+- [ ] Heat Shrink Tubing
 
 ### Tools / Misc
 - [ ] 3d Printer + Filament
