@@ -22,7 +22,7 @@ Why did I design this? I've been building a few 40% and 60% keyboards lately, an
 
 ### Hardware
 - [ ] 12x Keycaps. Whatever Fn caps you have lying around.
-- [ ] 12x Switches, presuming they fit in a 14mm square hole.
+- [ ] 12x Switches, presuming they fit in a 14mm square square hole. Cherry MX or compatible.
 - [ ] 12x 1N4148 Diodes
 - [ ] 1x Pro Micro
 - [ ] Crimp terminals, housings (3 pin, 4 pin)
