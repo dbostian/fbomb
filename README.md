@@ -5,6 +5,9 @@
 
 ![example](https://i.imgur.com/M7bTRSy.jpg)
 
+**Designer's Note:** This project is an exploration of the theme *Information as a Weapon*. 
+
+## Intro
 A 3d-printable macropad for your Fn enjoyment. It contains 12 Fn keys for your favorite Fn macros.
 
 Why did I design this? I've been building a few 40% and 60% keyboards lately, and I've discovered I have a growing collection of Fn row keycaps with no Fn use. What should I do with all these Fn keys? A Fn macropad, of course! But why settle for a rectangular Fn keypad?
